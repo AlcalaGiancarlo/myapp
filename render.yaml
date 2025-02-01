@@ -1,7 +1,7 @@
 databases:
-  - name: mysite
-    databaseName: mysite
-    user: mysite
+  - name: myapp
+    databaseName: myapp
+    user: myapp
     plan: free
 
 services:
